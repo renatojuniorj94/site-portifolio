@@ -1,0 +1,31 @@
+@charset "UTF-8";
+
+* {
+    padding: 0px;
+    margin: 0px;
+    background-color: black;
+}
+
+nav {
+    color: white;
+    text-align: center;
+}
+
+nav > h1 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    color: white;
+}
+
+main > p {
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 20px;
+    color: white;
+    text-align: justify;
+}
+
+footer > p {
+    text-align: center;
+    background-color: rgb(83, 83, 83);
+    color: white;
+}
