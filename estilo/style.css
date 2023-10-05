@@ -6,12 +6,12 @@
     background-color: black;
 }
 
-nav {
+nav > a {
     color: white;
     text-align: center;
 }
 
-nav > h1 {
+header > h1 {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     text-align: center;
     color: white;
@@ -25,6 +25,7 @@ main > p {
 }
 
 footer > p {
+    padding: 10px;
     text-align: center;
     background-color: rgb(83, 83, 83);
     color: white;
